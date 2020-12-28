@@ -1,4 +1,12 @@
-# Dockerized React Web Application with CI/CD Pipeline
+# Docker React Application
+
+Docker based simple react application
+
+CI/CD pipeline with GITHUB and Travis CI
+
+Travis CI for testing and deployment
+
+AWS Elastic Beanstalk Deployment
 
 ![image](https://user-images.githubusercontent.com/55949652/103231990-50b9b280-495f-11eb-86fa-1a6759f7eeec.png)
 
