@@ -1,3 +1,9 @@
+# Dockerized React Web Application with CI/CD Pipeline
+
+![image](https://user-images.githubusercontent.com/55949652/103231990-50b9b280-495f-11eb-86fa-1a6759f7eeec.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
